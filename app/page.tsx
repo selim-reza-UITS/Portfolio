@@ -841,7 +841,7 @@ const handleSubmit = async (e: React.FormEvent) => {
       <footer className="bg-sidebar border-t border-sidebar-border py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-sidebar-foreground/70">
-            © {year} Selim Reza. Built with Next.js and Tailwind CSS.
+            © {year} Selim Reza
           </p>
         </div>
       </footer>
